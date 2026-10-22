@@ -122,7 +122,7 @@ void clear(Queue& q) {
 //
 //     g++ -std=c++17 src/student.cpp -o latihan
 //     ./latihan
-//
+///
 //
 // SATU ATURAN YANG TIDAK BOLEH DILANGGAR
 // --------------------------------------
